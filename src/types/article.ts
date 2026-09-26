@@ -2,7 +2,6 @@ export interface ArticleMeta {
   title: string
   date: string
   slug: string
-  category?: string
   tags?: string[]
   summary?: string
 }

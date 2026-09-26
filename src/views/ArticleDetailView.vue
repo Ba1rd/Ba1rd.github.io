@@ -3,7 +3,6 @@
     <header class="article-header">
       <RouterLink to="/articles" class="back-link">← 我的文章</RouterLink>
 
-      <p class="eyebrow">{{ article.category ?? 'Article' }}</p>
       <h1>{{ article.title }}</h1>
 
       <div class="article-meta">
