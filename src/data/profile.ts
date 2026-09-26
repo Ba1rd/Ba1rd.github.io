@@ -4,12 +4,12 @@ export const profile = {
   title: 'Software Engineering',
   university: '中央民族大学',
   location: 'Beijing, China',
-  email: 'your-email@example.com',
+  email: 'oceanjiao_baird@163.com',
   avatar: '/images/avatar.jpg',
 
   bio: [
-    '这里放一段简短的个人介绍。',
-    '介绍目前的学习阶段、专业背景，以及正在关注的方向。',
+    '我是焦海洋。',
+    'I am Baird.',
   ],
 
   interests: [
@@ -42,7 +42,7 @@ export const profile = {
   ],
 
   links: [
-    { label: 'GitHub', url: 'https://github.com/' },
-    { label: 'Email', url: 'mailto:your-email@example.com' },
+    { label: 'GitHub', url: 'https://github.com/Ba1rd' },
+    { label: 'Email', url: 'mailto:oceanjiao_baird@163.com' },
   ],
 }
